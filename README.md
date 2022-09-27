@@ -1,1 +1,3 @@
-## Temporizador de página feito com HTML e CSS
+## Temporizador
+
+Temporizador feito no curso de Web Moderno na plataforma Udemy
